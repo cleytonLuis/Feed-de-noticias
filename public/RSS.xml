@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Feed Provider</title>
+    <link href="http://localhost:8000"/>
+    <description>Ultimas noticias</description>
+    <language>PT-BR</language>
+    <item>
+      <link href="http://localhost:8000/noticia/TESTE"/>
+      <pubDate>2017-05-03 20:35:41</pubDate>
+      <title>TESTE</title>
+      <description>&lt;img alt="TESTE.png" src="http://localhost:8000/images/noticias/TESTE.png" /&gt;TESTE</description>
+    </item>
+    <item>
+      <link href="http://localhost:8000/noticia/Titulo27"/>
+      <pubDate>2017-05-03 02:16:58</pubDate>
+      <title>Titulo 27</title>
+      <description>&lt;img alt="Titulo27.png" src="http://localhost:8000/images/noticias/Titulo27.png" /&gt;Descrição 27</description>
+    </item>
+    <item>
+      <link href="http://localhost:8000/noticia/Titulo25"/>
+      <pubDate>2017-05-03 02:03:45</pubDate>
+      <title>Titulo 25</title>
+      <description>&lt;img alt="Titulo25.jpg" src="http://localhost:8000/images/noticias/Titulo25.jpg" /&gt;Descrição 25</description>
+    </item>
+  </channel>
+</rss>

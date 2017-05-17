@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Provider</title>
+  <link rel="self" href="http://localhost:8000"/>
+  <id>&lt;![CDATA[ http://localhost:8000]]&gt;</id>
+  <author>
+    <name>Administrador</name>
+  </author>
+  <entry>
+    <link href="http://localhost:8000/noticia/TESTE"/>
+    <title>TESTE</title>
+    <content>&lt;img alt="TESTE.png" src="http://localhost:8000/images/noticias/TESTE.png"/&gt;TESTE</content>
+    <pubDate>2017-05-03 20:35:41</pubDate>
+  </entry>
+  <entry>
+    <link href="http://localhost:8000/noticia/Titulo27"/>
+    <title>Titulo 27</title>
+    <content>&lt;img alt="Titulo27.png" src="http://localhost:8000/images/noticias/Titulo27.png"/&gt;Descrição 27</content>
+    <pubDate>2017-05-03 02:16:58</pubDate>
+  </entry>
+  <entry>
+    <link href="http://localhost:8000/noticia/Titulo26"/>
+    <title>Titulo 26</title>
+    <content>&lt;img alt="Titulo26.jpg" src="http://localhost:8000/images/noticias/Titulo26.jpg"/&gt;Descrição 26</content>
+    <pubDate>2017-05-03 02:05:46</pubDate>
+  </entry>
+  <entry>
+    <link href="http://localhost:8000/noticia/Titulo25"/>
+    <title>Titulo 25</title>
+    <content>&lt;img alt="Titulo25.jpg" src="http://localhost:8000/images/noticias/Titulo25.jpg"/&gt;Descrição 25</content>
+    <pubDate>2017-05-03 02:03:45</pubDate>
+  </entry>
+</feed>
